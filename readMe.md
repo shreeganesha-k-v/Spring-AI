@@ -1,37 +1,82 @@
-This project is a Spring Boot application built to explore and experiment with Spring AI, integrating with Gemini (Google’s Generative AI) for intelligent conversational capabilities.
+# From Java Dev to AI Engineer: Spring AI Fast Track
 
-The goal of this project is to understand how to:
+## 🌱 Spring AI Course – Resources & Reference Links
 
-Configure and use Spring AI with external LLM providers like Gemini.
+Welcome to the official GitHub repository for the **Spring AI Course**. This course helps you build intelligent applications using the Spring AI framework and integrate powerful LLMs like OpenAI into your Spring Boot apps.
 
-Build and expose REST APIs to interact with AI models.
+Below are some carefully curated reference links and tools used throughout the course. Bookmark this information for quick access during development and exploration.
 
-Manage API keys securely using environment variables.
+---
 
-Develop a simple chat interface (frontend or API-based) to test real-time responses.
+## 📘 Official Documentation
 
-🚀 Features
+- **[Spring AI Official Documentation](https://docs.spring.io/spring-ai/reference/index.html)**  
+  The core reference for understanding Spring AI modules, configuration, and supported AI providers.
 
-Spring Boot 3.3+ and Java 21
+- **[OpenAI Platform Docs](https://platform.openai.com/docs/overview)**  
+  Learn how to use OpenAI's APIs including ChatGPT, GPT-4, embeddings, and more.
 
-Integration with Spring AI and Gemini API
+---
 
-Configurable API key through environment variables
+## 🤖 AI Providers & Runtimes
 
-Lightweight REST controller for chat requests and responses
+- **[Ollama](https://ollama.com)**  
+  Run open-source large language models (LLMs) locally on your machine with simple commands.
 
-Modular design to support future AI providers (like OpenAI, Anthropic, etc.)
+- **[AWS Bedrock](https://aws.amazon.com/bedrock/)**  
+  Access foundation models from various providers via a fully managed AWS service.
 
-🧩 Tech Stack
+- **[Docker Desktop](https://www.docker.com/products/docker-desktop/)**  
+  Essential for running local AI model runtimes and Docker Compose setups used in the course.
 
-Java 21
+- **[Docker Model Runner](https://docs.docker.com/ai/model-runner/)**  
+  Use Docker’s official tool for running and managing AI models locally.
 
-Spring Boot 3.3+
+---
 
-Spring AI
+## 📚 Foundational Papers & Tools
 
-Maven 3.8+
+- **[Attention Is All You Need (Transformer Paper)](https://arxiv.org/abs/1706.03762)**  
+  The seminal research paper that introduced the Transformer architecture behind modern LLMs.
 
-Gemini API (via environment key)
+- **[OpenAI Tokenizer Tool](https://platform.openai.com/tokenizer)**  
+  Visualize how OpenAI tokenizes input prompts and estimate token usage.
 
-IntelliJ IDEA
+---
+
+## 📦 Vector Store & MCP
+
+- **[Qdrant Vector Database](https://qdrant.tech)**  
+  An open-source vector store used in Retrieval-Augmented Generation (RAG) demos with Spring AI.
+
+- **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/)**  
+  A protocol for connecting AI clients and servers in a decoupled and extensible way.
+
+---
+
+## 📊 Observability & Monitoring Tools
+
+- **[Prometheus](https://prometheus.io/)**  
+  Monitoring and alerting toolkit for collecting Spring Boot and AI app metrics.
+
+- **[Micrometer](https://micrometer.io/)**  
+  Java metrics collection library used with Spring Boot to expose observability data.
+
+- **[OpenTelemetry](https://opentelemetry.io/)**  
+  Industry-standard framework for distributed tracing and telemetry data.
+
+- **[Grafana](https://grafana.com/)**  
+  Visualization tool for creating dashboards from Prometheus and other data sources.
+
+- **[Jaeger Tracing](https://www.jaegertracing.io/)**  
+  Distributed tracing platform used to trace and monitor AI request flows.
+
+---
+
+## 📎 Stay Connected
+
+---
+
+📬 For questions or issues, raise a GitHub issue or connect with the course instructor
+
+Happy Learning! 🚀  
