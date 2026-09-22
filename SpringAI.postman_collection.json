@@ -126,7 +126,7 @@
             "method": "GET",
             "header": [],
             "url": {
-              "raw": "http://localhost:8080/api/email?customerName=Madan&customerMessage=I am not able to access my account, it says account locked. please help",
+              "raw": "http://localhost:8080/api/email?customerName=shreeganesha&customerMessage=I am not able to access my account, it says account locked. please help",
               "protocol": "http",
               "host": [
                 "localhost"
@@ -139,7 +139,7 @@
               "query": [
                 {
                   "key": "customerName",
-                  "value": "Madan"
+                  "value": "shreeganesha"
                 },
                 {
                   "key": "customerMessage",
@@ -292,7 +292,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan104",
+                "value": "shreeganesha104",
                 "type": "text"
               }
             ],
@@ -329,7 +329,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan119",
+                "value": "shreeganesha119",
                 "type": "text"
               }
             ],
@@ -363,7 +363,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan24",
+                "value": "shreeganesha24",
                 "type": "text"
               }
             ],
@@ -397,7 +397,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan126",
+                "value": "shreeganesha126",
                 "type": "text"
               }
             ],
@@ -462,7 +462,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan01",
+                "value": "shreeganesha01",
                 "type": "text"
               }
             ],
@@ -495,7 +495,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan01",
+                "value": "shreeganesha01",
                 "type": "text"
               }
             ],
@@ -536,7 +536,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan52",
+                "value": "shreeganesha52",
                 "type": "text"
               }
             ],
@@ -571,7 +571,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan41",
+                "value": "shreeganesha41",
                 "type": "text"
               }
             ],
@@ -783,7 +783,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan106",
+                "value": "shreeganesha106",
                 "type": "text"
               }
             ],
@@ -831,7 +831,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan106",
+                "value": "shreeganesha106",
                 "type": "text"
               }
             ],
@@ -879,7 +879,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan106",
+                "value": "shreeganesha106",
                 "type": "text"
               }
             ],
@@ -927,7 +927,7 @@
             "header": [
               {
                 "key": "username",
-                "value": "madan106",
+                "value": "shreeganesha106",
                 "type": "text"
               }
             ],
@@ -936,7 +936,7 @@
               "formdata": [
                 {
                   "key": "from",
-                  "value": "madan@gmail.com",
+                  "value": "shreeganesha@gmail.com",
                   "type": "text",
                   "uuid": "13add5c7-1557-4f16-bbd2-d6e0c51f48a4"
                 },
